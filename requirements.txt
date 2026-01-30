@@ -1,0 +1,6 @@
+requests
+asyncio
+selenium
+socksio
+pytz
+python-telegram-bot[socks]
